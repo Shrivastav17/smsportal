@@ -1,0 +1,141 @@
+{
+  "msg": "All Records",
+  "data": [
+    {
+      "_id": "65f2ac7442f2b37035f88e76",
+      "__v": 0
+    },
+    {
+      "_id": "65f2ac8d42f2b37035f88e78",
+      "lib_name": "Diwali 200",
+      "__v": 0
+    },
+    {
+      "_id": "65f31da9728ab280f6b4f654",
+      "__v": 0
+    },
+    {
+      "_id": "65f31db4728ab280f6b4f656",
+      "__v": 0
+    },
+    {
+      "_id": "65f31dbd728ab280f6b4f658",
+      "lib_name": "Holi",
+      "__v": 0
+    },
+    {
+      "_id": "65f31dcd728ab280f6b4f65a",
+      "lib_name": "Diwali",
+      "__v": 0
+    },
+    {
+      "_id": "65f31ded728ab280f6b4f65c",
+      "lib_name": "Birthday",
+      "__v": 0
+    },
+    {
+      "_id": "65f31e03728ab280f6b4f65e",
+      "lib_name": "Anniversary",
+      "__v": 0
+    },
+    {
+      "_id": "660440b5ad6893adb1bfb008",
+      "__v": 0
+    },
+    {
+      "_id": "660aa31c26cc3eada00729ff",
+      "lib_name": "Di",
+      "__v": 0
+    },
+    {
+      "_id": "660aa32b26cc3eada0072a01",
+      "lib_name": "Diwali",
+      "__v": 0
+    }
+  ]
+}
+
+//////////////////////////////////////////////
+
+
+group ka data
+
+{
+  "msg": "show group data",
+  "data": [
+    {
+      "_id": "66066e895a62343034f7c798",
+      "group_name": "Family",
+      "__v": 0
+    },
+    {
+      "_id": "66066f16cb85ea96415fd36a",
+      "group_name": "Family",
+      "__v": 0
+    },
+    {
+      "_id": "66066f97aec3378845103a42",
+      "group_name": "Family",
+      "__v": 0
+    },
+    {
+      "_id": "66066fc75d1f39038e63b561",
+      "group_name": "Freind",
+      "__v": 0
+    },
+    {
+      "_id": "66066fd95d1f39038e63b563",
+      "group_name": "Friends",
+      "__v": 0
+    },
+    {
+      "_id": "66066fe85d1f39038e63b565",
+      "group_name": "College Group",
+      "__v": 0
+    },
+    {
+      "_id": "66066ff65d1f39038e63b567",
+      "group_name": "Society Group",
+      "__v": 0
+    }
+  ]
+}
+
+//////////////////////////////////////////////
+
+contact data
+
+{
+  "msg": "Contact Show",
+  "data": [
+    {
+      "_id": "660674003e7f3b6c08a3f024",
+      "username": "Sakshi",
+      "usermobile": 9876541230,
+      "useremail": "sk@gmail.com",
+      "group_id": "66066e895a62343034f7c798",
+      "__v": 0
+    },
+    {
+      "_id": "6606742a3e7f3b6c08a3f026",
+      "username": "Maiyu",
+      "usermobile": 9876541250,
+      "useremail": "m@gmail.com",
+      "__v": 0
+    },
+    {
+      "_id": "660674383e7f3b6c08a3f028",
+      "username": "Siddhi",
+      "usermobile": 9876541250,
+      "useremail": "ss@gmail.com",
+      "__v": 0
+    },
+    {
+      "_id": "6606744a3e7f3b6c08a3f02a",
+      "username": "Jyoti",
+      "usermobile": 9876541250,
+      "useremail": "ss@gmail.com",
+      "__v": 0
+    }
+  ]
+}
